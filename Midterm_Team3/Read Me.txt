@@ -1,0 +1,12 @@
+A dedicated folder has been created for each of the question.
+
+Each folder contains the report of that specific question.
+Each folder also contains a folder called 'Analysis' containing the data/ visual analysis performed on the data set.
+
+Team 3
+
+Anirudha Deepak Bedre
+Vijayakumar Jayaseelan
+Guruprasath Sachdanandam
+Balamanikandan Gopalakrishnan
+
